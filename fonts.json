@@ -1,6 +1,35 @@
 {
-  "fonts": [],
-  "lastUpdated": "2026-01-14T05:53:00.417Z",
+  "fonts": [
+    {
+      "hash": "c599bd11d0e0ba9ac463b2966c182b0d391652a174951f2a95d8260fba33686e",
+      "name": "Knockout HTF46-Flyweight",
+      "style": "Regular",
+      "version": "001.000",
+      "designer": null,
+      "manufacturer": null,
+      "analyzedAt": "2026-01-14T07:02:08.516Z",
+      "oneμ": 3,
+      "minCharacter": "ð",
+      "source": "stroke width",
+      "xHeight": 480,
+      "relativeAcuity": 160,
+      "unitsPerEm": 1000,
+      "distribution": {
+        "min": 3,
+        "max": 839,
+        "median": 75,
+        "mean": 134.63186501550777,
+        "percentiles": {
+          "p10": 33,
+          "p25": 44.82186966202994,
+          "p75": 149.03690818049066,
+          "p90": 337.92306816788937
+        },
+        "count": 5964
+      }
+    }
+  ],
+  "lastUpdated": "2026-01-14T07:02:08.929Z",
   "version": "1.0",
   "description": "Font Visual Acuity Database - Community measurements based on protocol by Ernesto Peña"
 }
