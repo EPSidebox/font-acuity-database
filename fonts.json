@@ -1,6 +1,35 @@
 {
-  "fonts": [],
-  "lastUpdated": "2026-01-14T05:53:00.417Z",
+  "fonts": [
+    {
+      "hash": "4eeb23cd844ef6607302ef824365c68344062c9e27b118e293f0c37f667165ec",
+      "name": "Knockout HTF26-JuniorFlyweight",
+      "style": "Regular",
+      "version": "001.000",
+      "designer": null,
+      "manufacturer": null,
+      "analyzedAt": "2026-01-14T07:01:49.811Z",
+      "oneμ": 2,
+      "minCharacter": "Ø",
+      "source": "stroke width",
+      "xHeight": 468,
+      "relativeAcuity": 234,
+      "unitsPerEm": 1000,
+      "distribution": {
+        "min": 2,
+        "max": 839,
+        "median": 74.27651041883968,
+        "mean": 135.50733102930212,
+        "percentiles": {
+          "p10": 35,
+          "p25": 49.040799340956916,
+          "p75": 149.03690818049066,
+          "p90": 344.3835071544513
+        },
+        "count": 5964
+      }
+    }
+  ],
+  "lastUpdated": "2026-01-14T07:01:51.569Z",
   "version": "1.0",
   "description": "Font Visual Acuity Database - Community measurements based on protocol by Ernesto Peña"
 }
