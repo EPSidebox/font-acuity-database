@@ -1,6 +1,35 @@
 {
-  "fonts": [],
-  "lastUpdated": "2026-01-14T05:53:00.417Z",
+  "fonts": [
+    {
+      "hash": "d84a6c1d0e069ced8261d57d9fbe29a9d8621e28254d3ee9ec798b7db0706584",
+      "name": "Archivo",
+      "style": "Bold",
+      "version": "Version 1.004; ttfautohint (v1.8)",
+      "designer": "Hector Gatti",
+      "manufacturer": "Omnibus-Type",
+      "analyzedAt": "2026-01-14T07:05:32.833Z",
+      "oneμ": 2,
+      "minCharacter": "Ą",
+      "source": "stroke width",
+      "xHeight": 526,
+      "relativeAcuity": 263,
+      "unitsPerEm": 1000,
+      "distribution": {
+        "min": 2,
+        "max": 910,
+        "median": 121.5082301739269,
+        "mean": 157.9066072013864,
+        "percentiles": {
+          "p10": 37.51333096380539,
+          "p25": 75.36079882803791,
+          "p75": 178.12635964393365,
+          "p90": 324
+        },
+        "count": 16916
+      }
+    }
+  ],
+  "lastUpdated": "2026-01-14T07:05:33.558Z",
   "version": "1.0",
   "description": "Font Visual Acuity Database - Community measurements based on protocol by Ernesto Peña"
 }
