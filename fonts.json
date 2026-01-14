@@ -1,6 +1,35 @@
 {
-  "fonts": [],
-  "lastUpdated": "2026-01-14T05:53:00.417Z",
+  "fonts": [
+    {
+      "hash": "94fa16cc9d6efbf992c72c272f3bc5a5cb26fe9b421ee5b23d7fc9510b1f0cb9",
+      "name": "Knockout HTF49-Liteweight",
+      "style": "Regular",
+      "version": "001.000",
+      "designer": null,
+      "manufacturer": null,
+      "analyzedAt": "2026-01-14T07:02:14.889Z",
+      "oneμ": 3,
+      "minCharacter": "ð",
+      "source": "stroke width",
+      "xHeight": 480,
+      "relativeAcuity": 160,
+      "unitsPerEm": 1000,
+      "distribution": {
+        "min": 3,
+        "max": 823,
+        "median": 113.95174417269794,
+        "mean": 160.91334705023976,
+        "percentiles": {
+          "p10": 45,
+          "p25": 78.54934754662193,
+          "p75": 210,
+          "p90": 337
+        },
+        "count": 5952
+      }
+    }
+  ],
+  "lastUpdated": "2026-01-14T07:02:15.294Z",
   "version": "1.0",
   "description": "Font Visual Acuity Database - Community measurements based on protocol by Ernesto Peña"
 }
