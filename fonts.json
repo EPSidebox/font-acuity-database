@@ -1,6 +1,35 @@
 {
-  "fonts": [],
-  "lastUpdated": "2026-01-14T05:53:00.417Z",
+  "fonts": [
+    {
+      "hash": "1860429d04a148817a008484c73f08df177e804c37cad5bf84905f7812633ee0",
+      "name": "Knockout HTF47-Bantamweight",
+      "style": "Regular",
+      "version": "001.000",
+      "designer": null,
+      "manufacturer": null,
+      "analyzedAt": "2026-01-14T07:02:10.667Z",
+      "oneμ": 3,
+      "minCharacter": "ð",
+      "source": "stroke width",
+      "xHeight": 480,
+      "relativeAcuity": 160,
+      "unitsPerEm": 1000,
+      "distribution": {
+        "min": 3,
+        "max": 834,
+        "median": 88,
+        "mean": 143.27395334167375,
+        "percentiles": {
+          "p10": 42,
+          "p25": 57,
+          "p75": 173.31185764395926,
+          "p90": 332.56127254988667
+        },
+        "count": 5958
+      }
+    }
+  ],
+  "lastUpdated": "2026-01-14T07:02:11.063Z",
   "version": "1.0",
   "description": "Font Visual Acuity Database - Community measurements based on protocol by Ernesto Peña"
 }
