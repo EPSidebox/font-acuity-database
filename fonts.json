@@ -1,6 +1,35 @@
 {
-  "fonts": [],
-  "lastUpdated": "2026-01-14T05:53:00.417Z",
+  "fonts": [
+    {
+      "hash": "0efcff6eea714145481f45cb705877fd62ff3a9bae087b4f4f1813b1b0be6f5e",
+      "name": "Knockout HTF74-FullSumo",
+      "style": "Regular",
+      "version": "001.000",
+      "designer": null,
+      "manufacturer": null,
+      "analyzedAt": "2026-01-14T07:02:44.201Z",
+      "oneμ": 1,
+      "minCharacter": "g",
+      "source": "stroke width",
+      "xHeight": 492,
+      "relativeAcuity": 492,
+      "unitsPerEm": 1000,
+      "distribution": {
+        "min": 1,
+        "max": 882,
+        "median": 167.80047675736802,
+        "mean": 225.36277008992812,
+        "percentiles": {
+          "p10": 36,
+          "p25": 112,
+          "p75": 303,
+          "p90": 492
+        },
+        "count": 5670
+      }
+    }
+  ],
+  "lastUpdated": "2026-01-14T07:02:44.603Z",
   "version": "1.0",
   "description": "Font Visual Acuity Database - Community measurements based on protocol by Ernesto Peña"
 }
